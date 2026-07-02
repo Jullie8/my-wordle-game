@@ -1,2 +1,2 @@
 # my-wordle-game
-Created with CodeSandbox
+https://jullie8.github.io/my-wordle-game/
